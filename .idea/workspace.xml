@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="547075a4-525b-498d-bfba-2e9f66c8b0ea" name="Default Changelist" comment="" />
+    <list default="true" id="547075a4-525b-498d-bfba-2e9f66c8b0ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crm24/tests/try2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,13 @@
   </component>
   <component name="FileColors">
     <fileColor scope="All" color="eafffa" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,7 +42,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.try2">
     <configuration name="try1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.crm24.tests.try1" />
       <module name="Bitrix24" />
@@ -47,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="try2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crm24.tests.try2" />
+      <module name="Bitrix24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm24.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.try2" />
         <item itemvalue="Application.try1" />
       </list>
     </recent_temporary>
@@ -67,10 +90,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="200" key="#Project_Structure" timestamp="1590713521349">
+    <state x="480" y="200" key="#Project_Structure" timestamp="1590713741904">
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
-    <state x="480" y="200" key="#Project_Structure/0.23.1792.1025@0.23.1792.1025" timestamp="1590713521349" />
+    <state x="480" y="200" key="#Project_Structure/0.23.1792.1025@0.23.1792.1025" timestamp="1590713741904" />
     <state width="1341" height="279" key="GridCell.Tab.0.bottom" timestamp="1590713628386">
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
